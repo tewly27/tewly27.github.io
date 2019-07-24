@@ -17,6 +17,7 @@ img{
 }
 h1{
     font-size: 50px;
+    font-family: 'Open sans',sans-serif;
     text-align:center;
     color: #00539f;
     text-shadow: 5px 5px #747474 ;
